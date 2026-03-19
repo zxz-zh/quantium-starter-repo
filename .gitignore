@@ -1,4 +1,4 @@
-# Jetbrains
+$ python3 -m venv venv/# Jetbrains
 .idea/
 
 # Byte-compiled / optimized / DLL files
